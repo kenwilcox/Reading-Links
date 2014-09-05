@@ -16,8 +16,11 @@ Just some links that I'm currently looking at
 
 ## JavaScript ##
  - [Eloquent JavaScript](http://eloquentjavascript.net/)
+ - [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/)
+ - [Maintainable JavaScript](http://shop.oreilly.com/product/0636920025245.do)
  - [The JavaScript Source](http://www.javascriptsource.com/)
  - [Mozilla Developer Network MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+ - [JSBin](http://jsbin.com/) - Collaborative JavaScript Debugging
 
 ### Images ###
  - [Resemble.js](http://huddle.github.io/Resemble.js/) RGB of images
@@ -27,5 +30,20 @@ Just some links that I'm currently looking at
 ## OSS ##
   - [http://choosealicense.com/](http://choosealicense.com/)
 
+## OpenShift ##
+  - [OpenShift](https://www.openshift.com/get-started)
+  - [TutsPlus - Openshift](http://code.tutsplus.com/tutorials/running-wordpress-on-openshift-an-introduction--cms-20058)
+
 ## Projects ##
-- [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - currently using this
+  - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - currently using this
+
+
+## LEGAL ##
+  - [Idaho Statutes](http://legislature.idaho.gov/idstat/Title2/T2CH2.htm)
+
+## Misc ##
+  - [hackpad](https://hackpad.com/)
+  - [HTTP Shaming](http://httpshaming.tumblr.com/)
+  - [Beautiful Open](http://beautifulopen.com/)
+  - [Exercism](http://exercism.io/) - Crowd-sources mentorship
+  - [Kraken](https://kraken.io/) - Image Optimizing
