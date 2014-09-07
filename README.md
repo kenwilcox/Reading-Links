@@ -52,3 +52,4 @@ Just some links that I'm currently looking at
   - [Beautiful Open](http://beautifulopen.com/)
   - [Exercism](http://exercism.io/) - Crowd-sources mentorship
   - [Kraken](https://kraken.io/) - Image Optimizing
+  - [Cloud 9](https://c9.io)
