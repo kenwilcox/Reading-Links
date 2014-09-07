@@ -1,6 +1,11 @@
 # Links #
 Just some links that I'm currently looking at
 
+## Docker ##
+ - [Docker Itself](https://www.docker.com/)
+ - [https://kitematic.com](https://kitematic.com) - GUI for Docker
+ - [Docker on Digital Ocean](https://www.digitalocean.com/company/blog/coreos-now-available-on-digitalocean/)
+
 ## Git ##
  - [https://windows.github.com/](https://windows.github.com/)
  - [https://guides.github.com/introduction/flow/index.html](https://guides.github.com/introduction/flow/index.html)
