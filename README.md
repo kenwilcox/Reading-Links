@@ -10,6 +10,7 @@ Just some links that I'm currently looking at
  - [https://windows.github.com/](https://windows.github.com/)
  - [https://guides.github.com/introduction/flow/index.html](https://guides.github.com/introduction/flow/index.html)
  - [Closing Via Commit Message](https://help.github.com/articles/closing-issues-via-commit-messages) - github magic?
+ - [Ry's Git Tutorial](http://rypress.com/tutorials/git/index.html)
 
  ### Submodules ###
  - [Submodule Tips](http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
