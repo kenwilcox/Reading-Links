@@ -12,7 +12,7 @@ Just some links that I'm currently looking at
  - [Closing Via Commit Message](https://help.github.com/articles/closing-issues-via-commit-messages) - github magic?
  - [Ry's Git Tutorial](http://rypress.com/tutorials/git/index.html)
 
- ### Submodules ###
+### Submodules ###
  - [Submodule Tips](http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
  - [Git Subtree](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)
  - [Submodule Cheat Sheet](http://blog.jacius.info/git-submodule-cheat-sheet/)
