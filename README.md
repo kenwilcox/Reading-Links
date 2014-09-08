@@ -1,5 +1,5 @@
 # Links #
-Just some links that I'm currently looking at
+Just some links that I'm currently looking at. I think I need to break this down into individual files.
 
 ## Docker ##
  - [Docker Itself](https://www.docker.com/)
