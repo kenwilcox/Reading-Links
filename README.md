@@ -7,21 +7,10 @@ Just some links that I'm currently looking at. I think I need to break this down
  - [Docker on Digital Ocean](https://www.digitalocean.com/company/blog/coreos-now-available-on-digitalocean/)
 
 ## Git ##
- - [https://windows.github.com/](https://windows.github.com/)
- - [https://guides.github.com/introduction/flow/index.html](https://guides.github.com/introduction/flow/index.html)
- - [Closing Via Commit Message](https://help.github.com/articles/closing-issues-via-commit-messages) - github magic?
- - [Ry's Git Tutorial](http://rypress.com/tutorials/git/index.html)
-
-### Submodules ###
- - [Submodule Tips](http://blogs.atlassian.com/2013/03/git-submodules-workflows-tips/)
- - [Git Subtree](http://blogs.atlassian.com/2013/05/alternatives-to-git-submodule-git-subtree/)
- - [Submodule Cheat Sheet](http://blog.jacius.info/git-submodule-cheat-sheet/)
- - [SCM: git-submodule](http://git-scm.com/docs/git-submodule)
- - [SCM: Git-Tools-Submodules](http://git-scm.com/book/en/Git-Tools-Submodules)
-
+ - [Git](Git.md) - those links are now their own file.
 
 ## JavaScript ##
- - [JavaScript](JavaScript.md) - those links are now their own file
+ - [JavaScript](JavaScript.md) - those links are now their own file.
 
 ## OSS ##
   - [http://choosealicense.com/](http://choosealicense.com/)
