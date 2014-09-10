@@ -1,0 +1,1 @@
+- Picard management tip: If you never fail, you aren't going boldly enough.

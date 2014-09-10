@@ -10,3 +10,9 @@
  - [Submodule Cheat Sheet](http://blog.jacius.info/git-submodule-cheat-sheet/)
  - [SCM: git-submodule](http://git-scm.com/docs/git-submodule)
  - [SCM: Git-Tools-Submodules](http://git-scm.com/book/en/Git-Tools-Submodules)
+
+## Projects ##
+  Projects on GitHub that I need to use, look into or make into submodules
+
+  - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - currently using this
+  - [p5.js](https://github.com/lmccart/p5.js)

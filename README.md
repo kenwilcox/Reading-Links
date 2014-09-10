@@ -5,6 +5,7 @@ Just some links that I'm currently looking at. I think I need to break this down
  - [Docker Itself](https://www.docker.com/)
  - [https://kitematic.com](https://kitematic.com) - GUI for Docker
  - [Docker on Digital Ocean](https://www.digitalocean.com/company/blog/coreos-now-available-on-digitalocean/)
+ - [CoreOS](https://coreos.com/products/managed-linux/)
 
 ## Git ##
  - [Git](Git.md) - those links are now their own file.
@@ -19,9 +20,12 @@ Just some links that I'm currently looking at. I think I need to break this down
   - [OpenShift](https://www.openshift.com/get-started)
   - [TutsPlus - Openshift](http://code.tutsplus.com/tutorials/running-wordpress-on-openshift-an-introduction--cms-20058)
 
-## Projects ##
-  - [SharpZipLib](https://github.com/icsharpcode/SharpZipLib) - currently using this
+## Quotes ##
+  - [Quotes](Quotes.md)
 
+## Swift ##
+  - [Swift Resources](https://developer.apple.com/swift/resources/)
+  - [Swift Reference](https://developer.apple.com/library/prerelease/ios/documentation/Swift/Conceptual/Swift_Programming_Language/TheBasics.html#//apple_ref/doc/uid/TP40014097-CH5-XID_454)
 
 ## LEGAL ##
   - [Idaho Statutes](http://legislature.idaho.gov/idstat/Title2/T2CH2.htm)
