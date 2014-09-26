@@ -5,6 +5,7 @@
  - [The JavaScript Source](http://www.javascriptsource.com/)
  - [Mozilla Developer Network MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
  - [JSBin](http://jsbin.com/) - Collaborative JavaScript Debugging
+ - [validator.js](https://github.com/chriso/validator.js) - this looks cool
 
 ## Images ##
  - [Resemble.js](http://huddle.github.io/Resemble.js/) RGB of images
