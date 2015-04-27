@@ -13,6 +13,10 @@ Just some links that I'm currently looking at. I think I need to break this down
 ## JavaScript ##
  - [JavaScript](JavaScript.md) - those links are now their own file.
 
+## CSS ##
+ - [CSS Gradients](http://bennettfeely.com/gradients/)
+ - [Responsive background images](http://sixrevisions.com/css/responsive-background-image/)
+
 ## OSS ##
   - [http://choosealicense.com/](http://choosealicense.com/)
 
