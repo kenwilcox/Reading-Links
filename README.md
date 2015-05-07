@@ -12,6 +12,7 @@ Just some links that I'm currently looking at. I think I need to break this down
 
 ## JavaScript ##
  - [JavaScript](JavaScript.md) - those links are now their own file.
+ - [Angular](Angular.md) - I'm going to be doing a lot of this, so I'll start off on its own page.
 
 ## CSS ##
  - [CSS Gradients](http://bennettfeely.com/gradients/)
