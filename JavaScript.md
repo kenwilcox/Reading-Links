@@ -13,3 +13,6 @@
  - [Resemble.js](http://huddle.github.io/Resemble.js/) RGB of images
  - [IM.js](http://tcorral.github.io/IM.js/) Pixel Compare
  - [JS-ImageDiff](http://humblesoftware.github.io/js-imagediff/) Image Diff
+
+## SPA ##
+ - [http://www.pluralsight.com/courses/single-page-apps-jumpstart](http://www.pluralsight.com/courses/single-page-apps-jumpstart) - John Papa SPA Jumpstart
